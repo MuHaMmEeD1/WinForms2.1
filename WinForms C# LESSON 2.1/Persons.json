@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Muhammed",
+    "surname": "Nebiyev",
+    "veteni": "Azerbaijan",
+    "DateTime": "2007-01-09T20:36:39.475",
+    "cinsiyet": true,
+    "email": "asdasdasdasdasda@gmail.com",
+    "evlidi": false,
+    "isiVar": false
+  },
+  {
+    "name": "Muhammed",
+    "surname": "Nebiyev",
+    "veteni": "Azerbaijan",
+    "DateTime": "2007-01-09T20:36:39.475",
+    "cinsiyet": true,
+    "email": "asdasdasdasdasdc@gmail.com",
+    "evlidi": false,
+    "isiVar": false
+  }
+]
